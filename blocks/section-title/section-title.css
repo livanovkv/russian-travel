@@ -1,42 +1,9 @@
 .section-title {
-  max-width: 720px;
-  font-weight: bold;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 900;
   font-size: 96px;
   line-height: 100px;
-  text-align: center;
-  margin: 56px auto 32px;
   padding: 0;
 }
 
-@media screen and (max-width: 720px) {
-  .section-title {
-    max-width: 100%;
-    font-size: 64px;
-    line-height: 72px;
-    margin: 48px auto 16px;
-  }
-}
-@media screen and (max-width: 500px) {
-  .section-title {
-    max-width: 100%;
-    font-size: 56px;
-    line-height: 68px;
-    margin: 48px auto 16px;
-  }
-}
-@media screen and (max-width: 425px) {
-  .section-title {
-    max-width: 100%;
-    font-size: 48px;
-    line-height: 54px;
-    margin: 48px auto 16px;
-  }
-}
-@media screen and (max-width: 320px) {
-  .section-title {
-    max-width: 100%;
-    font-size: 40px;
-    line-height: 44px;
-    margin: 48px auto 16px;
-  }
-}
+

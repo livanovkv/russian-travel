@@ -1,5 +1,9 @@
 .place__text {
-  
   margin: 0 0 26px;
+  padding: 0;
+}
+
+.place__text:last-child {
+  margin: 0;
   padding: 0;
 }
