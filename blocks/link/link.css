@@ -7,7 +7,7 @@
 
 .link:hover {
   text-decoration: underline;
-  opacity: .5;
+  opacity: 0.5;
   transition: .3s;
 }
 

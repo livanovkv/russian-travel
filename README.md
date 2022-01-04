@@ -1,4 +1,5 @@
 # russian-travel
+* [Ссылка на Github Pages](https://livanovkv.github.io/russian-travel/)
 # Проект "Russian Travel" - *3-спринт. Самостоятельная верстка с адаптивом по техническому заданию*
 
 **Figma**
