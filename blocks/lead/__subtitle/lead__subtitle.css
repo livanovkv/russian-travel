@@ -2,7 +2,13 @@
   width: 640px;
   font-size: 1.88em;
   text-align: center;
-  margin: 0 auto 55px;
+  margin: 0 auto 65px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__subtitle {
+    margin: 0 auto 55px;
+  }
 }
 
 @media screen and (max-width: 767px) {

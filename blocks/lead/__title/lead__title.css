@@ -4,7 +4,13 @@
   font-size: 6em;
   text-align: center;
   vertical-align: baseline; 
-  margin: 50px auto 32px;
+  margin: 55px auto 32px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__title {
+    margin: 50px auto 32px;
+  }
 }
 
 @media screen and (max-width: 767px) {
