@@ -56,12 +56,6 @@
   }
 }
 
-@media screen and (max-width: 580px) {
-  .cover__background {
-    min-height: 363px;
-    padding: 20px 16px;
-  }
-}
 @media screen and (max-width: 579px) {
   .cover__background {
     min-height: 266px;
@@ -69,12 +63,6 @@
   }
 }
 
-@media screen and (max-width: 425px) {
-  .cover__background {
-    min-height: 266px;
-    padding: 20px 16px;
-  }
-}
 
 @media screen and (max-width: 424px) {
   .cover__background {

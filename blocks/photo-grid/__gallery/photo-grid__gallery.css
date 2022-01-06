@@ -22,14 +22,17 @@
 	.photo-grid__gallery {
 		max-width: 720px;
 		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: 264px;
+		gap: 14px;
 	}
 }
 
 @media screen and (max-width: 767px) {
 	.photo-grid__gallery {
 		grid-template-columns: 1fr;
-		gap: 10px;
-		margin: 0 10px;
+		grid-template-rows: 216px;
+		margin: 0 12px;
+		gap: 9px;
 	}
 }
 
@@ -37,5 +40,6 @@
 	.photo-grid__gallery {
 		max-width: 288px;
 		margin: 0 auto;
+		gap: 9px;
 	}
 }
