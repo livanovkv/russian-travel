@@ -59,18 +59,11 @@
 @media screen and (max-width: 579px) {
   .cover__background {
     min-height: 266px;
-    padding: 20px 16px;
   }
 }
 
 
 @media screen and (max-width: 424px) {
-  .cover__background {
-    min-height: 200px;
-    padding: 20px 16px;
-  }
-}
-@media screen and (max-width: 320px) {
   .cover__background {
     min-height: 200px;
   }
